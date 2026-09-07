@@ -1,6 +1,6 @@
 # linuxdemo-python3
 
-A little excercise for myself creating a demoscene'ish program, showing off classic Amiga demoscene-like graphics, **On Linux**.
+A little excercise for myself porting my original demoscene program in C [linuxdemo](https://github.com/pizslacker/linuxdemo), showing off classic Amiga demoscene-like graphics, **On Linux**.
 
 Made with `Python3` using `PyGame` that implements the classic "Doom" pixel fire algorithm, spherical text scrolling banner and a parrallax moving star trail background. Now with a soundbyte bgm loop!
 
