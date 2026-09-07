@@ -16,9 +16,6 @@ Usage:
 $ linuxdemo -f / --fullscreen /  -w 1280 -h 720 / --width 1280 --height 720
 ```
 
-Demo of demo:
-https://www.youtube.com/watch?v=qbnEi5xHPZY
-
 #### What:
 - `-O3` optimized demoscene binary (`36KB`, 16KB more than the `LICENSE` file).
 - `44KB` intro sound chunk + `20KB` soundbyte loop (courtesy of [**k!M**](https://soundcloud.com/kim-olsen-357297567)), making the total size 100KB!
