@@ -8,7 +8,7 @@ Should work on any Linux distribution that has Python3 + PyGame installed.
 
 #### Required:
 ```bash
-sudo apt-get install build-essential libsdl2-dev libsdl2-mixer-dev
+sudo apt-get install python3 python3-pygame
 ```
 
 Usage:
