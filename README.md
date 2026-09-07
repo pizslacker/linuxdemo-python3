@@ -4,7 +4,7 @@ A little excercise for myself creating a demoscene'ish program, showing off clas
 
 Made with `Python3` using `PyGame` that implements the classic "Doom" pixel fire algorithm, spherical text scrolling banner and a parrallax moving star trail background. Now with a soundbyte bgm loop!
 
-Should work on any Linux distribution that has SDL2 + SDL2_mixer.
+Should work on any Linux distribution that has Python3 + PyGame installed.
 
 #### Required:
 ```bash
